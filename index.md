@@ -1,4 +1,4 @@
-## Graph Neural Networks for Relational Indictive Bias in Vision-Based Deep Reinforcement Learning of Robot Control
+
 
 <div align="center">
   <h3>Marco Oliva, Soubarna Banik, Josip Josifovski and Alois Knoll</h3>
