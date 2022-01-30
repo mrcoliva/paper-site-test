@@ -16,6 +16,8 @@ State-of-the-art reinforcement learning algorithms predominantly learn a policy 
 ### Code
 Checkout the repository to view the source code, reproduce the results, or train your own models.
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 ### Contributions
 We identify a blind spot in the reinforcement learning research as, to our knowledge, there exists no method for inducing a relational bias into a vision-based reinforcement learning system. For this reason, we explore and present a graph neural network model that integrates structural knowledge with image observations and apply it to learn an efficient position control policy for robotic manipulation using reinforcement learning.
 
